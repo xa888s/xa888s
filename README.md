@@ -1,7 +1,7 @@
 ### Hi there, I'm Brandon 👋
 
 ## About me
-I am an upper year student at [SFU][sfu] studying [Computing Science][sfu_cmpt] with industry experience. My goal is to work as a software developer.
+I am an upper year student studying [Computing Science][sfu_cmpt] at [SFU][sfu], with industry experience. My goal is to work as a software developer.
 
 ## Experience
 * 2019, 2020, 2021: Technical Intern at [Center][cent]
