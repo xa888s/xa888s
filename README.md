@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi there, I'm Brandon 👋
 
-<!--
-**xa888s/xa888s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am an upper year student with industry experience at [SFU][sfu] studying [Computing Science][sfu_cmpt] with plans to work as a software developer.
 
-Here are some ideas to get you started:
+## Experience
+* 2019, 2020, 2021: Technical Intern at [Center][cent]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+* 2022-2025: [Computing Science][sfu_cmpt] at [Simon Fraser University][sfu]
+* 2020-2022: [Computer Science][lang_cmpt] at [Langara College][lang]
+
+[sfu]: https://www.sfu.ca
+[sfu_cmpt]: https://www.sfu.ca/computing.html
+[lang_cmpt]: https://langara.ca/programs-and-courses/programs/computer-science
+[lang]: https://langara.ca
+[cent]: https://getcenter.com
+
+## Skills 
+* :computer_mouse: **Frontend**
+  * :dark_sunglasses: **TypeScript**, JavaScript, React.js, Node.js
+* :keyboard: **Backend**
+  * :snake: **Python**
+  * **Haskell**
+  * **Rust**, C++17
+* :desktop_computer: **DevOps**
+  * **Bash**, :tropical_fish: Fish
+  * **Linux**, Docker, SSH
+  * **Git**
+* :spiral_notepad: **Editors**: VSCode, Neovim, Helix
+
+## Hobbies
+* I like learning about new and interesting programming languages and features (**Haskell**, **Rust**, **Idris 2**)
+* I like :skateboard: skateboarding, and often go :snowboarder: snowboarding with friends
+* I have started riding :motorcycle: motorcycles
+* I make music, with my primary instrument being :guitar: guitar
