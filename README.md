@@ -18,10 +18,12 @@ I am an upper year student studying [Computing Science][sfu_cmpt] at [SFU][sfu],
 
 ## Skills 
 * :computer_mouse: **Frontend**
-  * :dark_sunglasses: **TypeScript**, JavaScript, React.js, Node.js
+  * :dark_sunglasses: **TypeScript**, JavaScript, React.js
 * :keyboard: **Backend**
   * :snake: **Python**
   * **Haskell**
+  * **TypeScript**
+  * **Node.js**
   * **Rust**, C++17
 * :desktop_computer: **DevOps**
   * **Bash**, :tropical_fish: Fish
