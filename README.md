@@ -1,13 +1,13 @@
 ### Hi there, I'm Brandon 👋
 
 ## About me
-I am an upper year student studying [Computing Science][sfu_cmpt] at [SFU][sfu], with industry experience. My goal is to work as a software developer.
+I am recent graduate from the [Computing Science Program][sfu_cmpt] at [Simon Fraser University][sfu], with industry experience. I have a BSc in Computing Science, with concentrations in AI, and Programming Languages & Software.
 
 ## Experience
-* 2019, 2020, 2021: Technical Intern at [Center][cent]
+* 2019, 2020, 2021, 2022: Technical Intern at [Center][cent]
 
 ## Education
-* Sept 2022-Present: [Computing Science][sfu_cmpt] at [Simon Fraser University][sfu]
+* Sept 2022-May 2026: [Computing Science][sfu_cmpt] at [Simon Fraser University][sfu]
 * Jan 2024-Jun 2024: [Computer Science][cardiff_cmpt] at [Cardiff University][cardiff]
 * Sept 2020-May 2022: [Computer Science][lang_cmpt] at [Langara College][lang]
 
